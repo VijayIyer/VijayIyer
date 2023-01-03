@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VijayIyer
+- 👋 Hi, I’m Vijay Iyer. I recently completed a Master's Degree in Computer Science from Indiana University Bloomington and am looking for full-time job opportunities 
 - 👀 I’m interested in applying AI & Machine Learning to build interesting applications / utilities. I am also interested in Software Development (APIs, full stack web application development)
 - 💞️ I’m looking to collaborate on interesting projects in following languages - Python (web application, API, ML application, etc), Javascript (any framework, e.g jQuery, ReactJS) or C#.NET, where I can contribute, either fixing issues or adding new features
 - 📫 Reach me on linkedin https://www.linkedin.com/in/vijay-iyer-960577102/ or email vijayiyer7@gmail.com
